@@ -1,6 +1,6 @@
 ### Combinatorial Optimization on Quantum Computers
 
-This repository contains slides and Jupyter Notebooks for the Quantum Computing tutorial at Argonne National Laboratory, June 15 2020. 
+This repository contains slides and Jupyter Notebooks for the Quantum Computing tutorial at Argonne National Laboratory, June 15, 2020. 
 
 #### Prerequisites 
 
